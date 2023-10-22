@@ -1,3 +1,13 @@
+---
+name: Bug report template
+about: Bug report
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+
 **Date Time**
 DD-MM-YYYY HH:MM
 
