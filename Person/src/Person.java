@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 class Person {
     String name;
+    int a;
+    
     int birthYear;
     public Person(){
         this.name = "Viktoriia";
