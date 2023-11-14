@@ -1,3 +1,8 @@
-/.vscode
-/bin
-/lib
+# Ігнорувати теку bin
+/bin/
+
+# Ігнорувати теку lib
+/lib/
+
+# Ігнорувати теку .vscode
+/.vscode/
